@@ -38,17 +38,17 @@ Este modelo simula uma **comunicação assíncrona e desacoplada**, ideal para p
 
 ---
 
+## 📷 Diagrama da Arquitetura
+
+![Diagrama da Arquitetura](https://github.com/mateus-nunes/sd-integracao-rabbitmq/blob/main/arquitetura.png)
+
+---
+
 ## 🧪 Objetivos Educacionais
 
 - Demonstrar o uso de **filas de mensagens** com RabbitMQ.
 - Aplicar o conceito de **sistemas distribuídos** com serviços independentes.
 - Exibir a separação clara entre **produção e consumo de mensagens**.
 - Mostrar como o **Docker** pode ser utilizado para orquestrar serviços isolados de forma simples e eficaz.
-
----
-
-## 📷 Diagrama da Arquitetura
-
-![Diagrama da Arquitetura](https://github.com/mateus-nunes/sd-integracao-rabbitmq/blob/main/arquitetura.png)
 
 *Texto gerado por IA
