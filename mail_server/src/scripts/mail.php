@@ -22,9 +22,9 @@ $callback = function ($msg) {
     // Servidor de email
     $SMTP_HOST = "smtp.gmail.com";
     $SMTP_PORT = 587;
-    $SMTP_USER = "seu-email@gmail.com";
-    $SMTP_PASS = "suasenhaaqui";
-    $SMTP_NAME = "Mateus - IFTO";
+    $SMTP_USER = "iflib2025@gmail.com";
+    $SMTP_PASS = "blbg nbhk bovy pxww";
+    $SMTP_NAME = "IF_Lib";
 
     $mail = new PHPMailer(true);
 
